@@ -14,5 +14,7 @@ The extension receives as an input a URL that the user gives it and returns an a
 ![Malicious alert](mallicious_alert.png)
 ![Error alert](error_alert.png)
 
+[Look up our extension in the chrome webstore] (https://chromewebstore.google.com/detail/phishcheck-pro/lkmhbbhalhclopfcfglpllojjbecljbl)
+
 ### Copyrights:
 Noy Robinson & Ofir Binshtok.
