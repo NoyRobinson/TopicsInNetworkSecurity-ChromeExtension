@@ -4,7 +4,7 @@
 This is a chrome extension that anyone can install on their personal computer or by using the code files or by downloading the extension through the Chrome Webstore. 
 The extension receives as an input a URL that the user gives it and returns an alert as to whether the URL is malicious or safe to open.
 
-[Look up our extension in the chrome webstore] (https://chromewebstore.google.com/detail/phishcheck-pro/lkmhbbhalhclopfcfglpllojjbecljbl)
+[Look up our extension in the chrome webstore] (https://chromewebstore.google.com/detail/phishcheck-pro/lkmhbbhalhclopfcfglpllojjbecljbl).
 
 ### Technologies:
 * Virus total Api
